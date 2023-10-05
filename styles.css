@@ -246,7 +246,7 @@
 /* Media query for screens 768px and above (desktop version) */
 @media (min-width: 768px) {
     .headline {
-        background-image: url('./icons/Header\ bg@2x.png');
+        background-image: url('./images/Header\ bg@2x.png');
         /* Path to your desktop background image */
     }
 }
@@ -254,7 +254,7 @@
 /* Media query for screens below 768px (mobile version) */
 @media (max-width: 767px) {
     .headline {
-        background-image: url('./icons/header-mobile.png');
+        background-image: url('./images/header-mobile.png');
         /* Path to your mobile background image */
     }
 }
